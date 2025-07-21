@@ -80,14 +80,6 @@ I build:
 
 ---
 
-### 📊 GitHub Stats & Badges
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajpandey111&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpandey111&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 I'm open to:
 - 💼 Freelance Projects / AI Consulting
