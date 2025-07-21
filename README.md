@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Suraj Kumar Pandey 👋</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer | Founder @ SurajTechLabs</h3>
+<h3 align="center">AI/ML Engineer | Full-Stack Developer | Founder @ SurajTechLabs & Gyanm: The DeepAI</h3>
 
 <p align="center">
   <a href="https://suraj-portfolio.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-SurajTechLabs-blue?style=for-the-badge&logo=react" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-SurajTechLabs-blue?style=for-the-badge&logo=react&animation=wave" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:worldforensic@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-worldforensic@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
@@ -16,13 +16,14 @@
 ---
 
 ### 🚀 About Me
-I'm an AI/ML engineer and full-stack developer building real-world tools and systems. Founder of:
-- 🔹 **Gyanm: The DeepAI** – India’s first homegrown AI productivity copilot
-- 🔹 **SurajTechLabs** – A complete full-stack + AI-powered platform to showcase and serve real-time projects
+I'm an AI/ML engineer and full-stack developer building real-world tools and platforms. Founder of:
+- 🔹 **Gyanm: The DeepAI** – India’s first homegrown LLM productivity assistant
+- 🔹 **SurajTechLabs** – A complete portfolio + service hub for AI tools and client collaboration
 
-I design intelligent software to:
-- Solve automation, productivity, and research challenges
-- Deliver scalable SaaS, RAG bots, NLP, and CV apps
+I build:
+- 🧠 Intelligent software (RAG, NLP, CV, LLMs, Semantic Search)
+- 🔗 Secure SaaS systems, Smart Assistants, AI Infrastructure
+- 🌍 Open, scalable platforms to automate and innovate everyday work
 
 ---
 
@@ -30,59 +31,67 @@ I design intelligent software to:
 
 #### 🧠 AI/ML Mineral Targeting (Govt. of India)
 `Flask | CNN | QIENN | STGNN | XGBoost`
-> Built AI system to predict 501+ high-potential zones from satellite/geochemical data — 4x accuracy improvement.
+> Built ML pipeline to locate 501+ mineral-rich zones using geospatial, satellite & chemical data.
 
 #### 💻 Gyanm: The DeepAI
-`React.js | Gemini API | LangChain | Firebase | ViT`
-> AI assistant for coding, multimodal reasoning & automation. India's 1st indigenous LLM tool with image+text generation.
+`React.js | Gemini API | LangChain | Firebase | Vision Transformer`
+> India's first LLM productivity platform for text + image generation, automation, and research.
 
 #### 📄 PDF to Excel (Smart Parser)
 `Streamlit | LangChain | Sentence Transformers | Gemini | pdfplumber`
-> Advanced PDF table extractor used in schools & offices. AI search + export. .EXE also available.
+> Extracts tabular + structured data with semantic search. Used in schools/offices. EXE version available.
 
 #### 🚀 SurajTechLabs Portfolio Platform
-`React | Flask | FAISS | LangChain | Firebase`
-> All-in-one AI showcase hub — with 3 live bots (voice, chat, productivity), 25+ AI/ML projects, and a hiring/contact channel.
+`React | Flask | Firebase | FAISS | LangChain`
+> My AI portfolio with 25+ tools, 3 advanced bots (voice, RAG, productivity) + client contact integration.
 
-#### 🔗 Government Schemes Chatbot (IBM - UP Govt)
-`LangChain | RAG | FAISS | Semantic Search`
-> Helped 5000+ students access correct scheme info via RAG chatbot built on government data.
+#### 🔗 Govt. Schemes Chatbot (IBM-UP Govt)
+`LangChain | FAISS | Semantic Search | RAG`
+> Provided accurate scheme info to 5,000+ students. Personalized Q&A engine from gov data.
 
-#### 🔊 Alexander AI (Voice Assistant)
+#### 🔊 Alexander AI – Voice Assistant
 `Django | Gemini | OpenCV | Wolfram | APIs`
-> Voice-command-based AI for smart automation, research, weather, IRCTC, coding, and more.
+> AI voice assistant w/ command engine: search, code, weather, vision, IRCTC, utilities.
 
-#### 🏢 REC Azamgarh Chatbot
+#### 🏫 REC Azamgarh InfoBot
 `Streamlit | FAISS | Search Engine`
-> Custom college bot providing contact, event, and admission info. Based on scraped structured documents.
+> Smart college assistant for students. Gives contacts, faculty info, events.
 
-#### ⚡ Natural Disaster Predictor
-`Tkinter | ML | Disaster Dataset`
-> Predicts earthquake/weather anomalies using trained classifier models.
+#### ⚠️ Natural Disaster Predictor
+`Tkinter | ML | Custom Dataset`
+> Predicts earthquake + storm risks with real-time anomaly detection.
 
-#### 📸 Real-Time Object Detection
-`YOLOv3 | OpenCV | Python`
-> Live camera input detection using bounding box logic.
+#### 📸 YOLO Object Detection
+`Python | YOLOv3 | OpenCV`
+> Live object detection using bounding boxes and webcam feed.
 
-#### 🌿 Diabetes Prediction Tool
+#### 🩺 Diabetes Classifier Tool
 `Tkinter | ML | Health Data`
-> Classifier model to detect diabetes risk from patient input.
+> Simple medical predictor app trained with PIMA dataset.
 
 ---
 
-### 🌐 Stack & Skills
-- **AI/ML:** TensorFlow, PyTorch, Transformers, Sentence-BERT, LLMs
-- **LLMOps & RAG:** LangChain, FAISS, TF-IDF, Gemini, Palm, HuggingFace
-- **Full Stack:** React.js, Flask, Firebase, Streamlit, Django
-- **NLP/CV Tools:** pdfplumber, OpenCV, SpeechRecognition, NASA API
-- **Infra:** Git, Firebase Hosting, REST, Render, MongoDB
-- **Other:** IRCTC API, NewsAPI, WolframAlpha, GUI Apps (Tkinter)
+### ⚙️ Stack & Skills
+- **AI/ML:** Transformers, Sentence-BERT, TensorFlow, PyTorch, ViT, Generative AI
+- **LLMOps / Retrieval:** LangChain, FAISS, TF-IDF, Recursive Splitter, HuggingFace
+- **Full Stack:** React.js, Flask, Streamlit, Django, Firebase, REST
+- **Data / CV / NLP:** OpenCV, pdfplumber, SpeechRecognition, NLP APIs
+- **Infra & Ops:** Firebase Hosting, MongoDB, Render, Git, Docker
 
 ---
 
-### 🔹 Let’s Connect
-- 📈 Consulting / freelance projects
-- 🌍 Open-source collabs
-- 🤝 Partnerships for enterprise AI
+### 📊 GitHub Stats & Badges
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajpandey111&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpandey111&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+I'm open to:
+- 💼 Freelance Projects / AI Consulting
+- 🤝 Research / Innovation Collaborations
+- 🔧 SaaS or LLM Integrations / Co-Building
 
 🔗 [Portfolio](https://suraj-portfolio.tech) | 👤 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-pandey-gyanmaifounder) | 📧 [Email](mailto:worldforensic@gmail.com)
